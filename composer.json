@@ -1,0 +1,24 @@
+{
+	"name": "phillipjackon/ncdc-php",
+	"description": "PHP Wrapper for NOAA's National Climate Data Center WebServices v2",
+	"license": "MIT",
+	"keywords": [
+		"NOAA",
+		"weather",
+		"climate",
+		"api-wrapper"
+	],
+	"authors": [
+		{
+			"name": "Phillip Jackson",
+			"email": "unisys12@gmail.com"
+		}
+	],
+	"require": {},
+	"require-dev": {},
+	"autoload": {
+		"psr-4": {
+			"NCDCPHP\\": "src/"
+		}
+	}
+}
